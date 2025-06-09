@@ -40,6 +40,8 @@ The chart below shows the FID scores computed for both models as the number of g
 
 ![FID Scores](results/FID_vs_num_images.png)
 
+**Presentation Slides**: 📑 [View Slides](https://docs.google.com/presentation/d/1qpJRKUeZMtBM81mmu5PsaGFME349ORBOHhuBfroazvw/edit?usp=sharing)
+
 ---
 
 ## References
